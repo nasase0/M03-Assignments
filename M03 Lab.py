@@ -1,3 +1,8 @@
+#Nathan Sepe
+#Car Customizer
+#4-07-24
+#Allows user to input their car and prints out a list of the specs. 
+
 class Vehicle:
     def __init__(self, vehicle_type):
         self.vehicle_type = vehicle_type
